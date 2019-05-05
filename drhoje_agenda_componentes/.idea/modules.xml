@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../drhoje_agenda/.idea/drhoje_agenda.iml" filepath="$PROJECT_DIR$/../drhoje_agenda/.idea/drhoje_agenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/drhoje_agenda_componentes.iml" filepath="$PROJECT_DIR$/.idea/drhoje_agenda_componentes.iml" />
+    </modules>
+  </component>
+</project>
