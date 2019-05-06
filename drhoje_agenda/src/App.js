@@ -2,13 +2,17 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import TextCounter from './TextCounter';
+import DrHjForm from './DrHjForm';
+import NovoForm from './NovoForm';
 
 class App extends Component {
   render() {
     return (
       <div>
         <TextCounter limit={20}/>
-          <TextCounter />
+        <TextCounter />
+        <DrHjForm />
+        <NovoForm />
       </div>
     );
   }
